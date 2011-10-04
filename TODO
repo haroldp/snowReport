@@ -2,18 +2,54 @@ TODO List
 =============================================================
 
 Define namespace
+ - Resort
+    - Name
+    - Description
+    - URL
+    - Conditions URL
+    - Status (open, closed)
+    - Scheduled open date
+    
+    Should the hill conditions allow multiple? Base & peak?
+    - Temperature
+    - Winds
+    - Conditions
+    - Visibility
+    - Forecast
 
-xmlns page
+    - Base Depth
+    - New Snow 24
+    - New snow 48
+    - Storm Total
+    - Season Total
 
- - Example RSS document
+ - Runs
+    - Status (open, closed)
+    - Conditions
+    - Dificulty??
+
+ - Lifts
+    - Status (open, closed)
 
 Documentation
 
 Logo / Button
+ - Logo in the style of the style of the RSS button
+
+xmlns page
+ - Documentation
+ - Example RSS document
+ - Sample logos
+ - Sample code
+ - CC License
+ - Mailing list?
 
 Example feed
 
  - Mt Rose
 
 Example apps
+  - Mobile app
+  - Aggregator web site
+
 

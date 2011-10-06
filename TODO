@@ -1,14 +1,14 @@
 TODO List
 =============================================================
 
-Define namespace
+Define namespace - Can I make a DTD for this?? Example?
  - Resort
     - Name
     - Description
-    - URL
+    - Resort URL
     - Conditions URL
     - Status (open, closed)
-    - Scheduled open date
+    - Scheduled open date (date format?)
     
     Should the hill conditions allow multiple? Base & peak?
     - Temperature
@@ -25,13 +25,15 @@ Define namespace
 
  - Runs
     - Status (open, closed)
-    - Conditions
-    - Dificulty??
+    - Conditions (powder, packed powder, groomed, etc)
+    - Dificulty?? (circle, square diamond)
 
  - Lifts
     - Status (open, closed)
+    - Type??
 
 Documentation
+	- Describe each tag
 
 Logo / Button
  - Logo in the style of the style of the RSS button
@@ -39,8 +41,10 @@ Logo / Button
 xmlns page
  - Documentation
  - Example RSS document
- - Sample logos
+ - Sample logos and tag HTML
  - Sample code
+ 	- PHP Class
+ 	- ??? Class
  - CC License
  - Mailing list?
 

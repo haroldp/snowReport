@@ -1,15 +1,22 @@
 TODO List
 =============================================================
 
-Define namespace - Can I make a DTD for this?? Example?
- - Resort
+Define the namespace - Can I make a DTD for this?? Example?
+ - Resort (make this part of the <channel>?
     - Name
     - Description
     - Resort URL
     - Conditions URL
     - Status (open, closed)
-    - Scheduled open date (date format?)
+    - Scheduled open date (date format? RFC 2822?)
+    - Scheduled close date
     
+    - Base Depth
+    - New Snow 24
+    - New snow 48
+    - Storm Total
+    - Season Total
+
     Should the hill conditions allow multiple? Base & peak?
     - Temperature
     - Winds
@@ -17,18 +24,12 @@ Define namespace - Can I make a DTD for this?? Example?
     - Visibility
     - Forecast
 
-    - Base Depth
-    - New Snow 24
-    - New snow 48
-    - Storm Total
-    - Season Total
-
- - Runs
+ - Runs (should this be an extension of "<item>"??)
     - Status (open, closed)
     - Conditions (powder, packed powder, groomed, etc)
-    - Dificulty?? (circle, square diamond)
+    - Dificulty?? (green circle, blue square, black diamond)
 
- - Lifts
+ - Lifts (should this be an extension of "<item>"??)
     - Status (open, closed)
     - Type??
 
@@ -47,6 +48,9 @@ xmlns page
  	- ??? Class
  - CC License
  - Mailing list?
+
+Code Example PHP Class
+ - Other languages?
 
 Example feed
 
